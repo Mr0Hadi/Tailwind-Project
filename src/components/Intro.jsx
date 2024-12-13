@@ -9,11 +9,13 @@ function Intro() {
           />
         </div>
         <div className="flex flex-col space-y-10 mt-16 lg:w-1/2">
-          <h1 className="text-right font-semibold text-2xl lg:text-5xl ">
-            عنوان نوشته
+          <h1 className="text-right font-semibold text-2xl lg:text-4xl ">
+          بررسی و خرید آنلاین
           </h1>
-          <p className="text-right text-lg text-gray-300 lg:text-2xl lg:mt-0 lg:mx-0 ">
-            متن نوشته
+          <p className="text-right text-lg text-gray-300 lg:text-xl lg:mt-0 lg:mx-0 ">
+          یک خرید اینترنتی مطمئن، نیازمند فروشگاهی است که بتواند کالاهایی
+            متنوع، باکیفیت و دارای قیمت مناسب را در مدت زمان کوتاه به دست
+            مشتریان خود برساند و ضمانت بازگشت کالا هم داشته باشد
           </p>
 
           <div className="flex flex-row justify-end w-full space-x-4">
